@@ -78,7 +78,7 @@ Youtube:
 2 Open project directory, then npm install to install all required dependencies
 
 
-    Clone the repo: https://github.com/Mariana21hch/bookSearch
+    Clone the repo: https://github.com/Mariana21hch/Portfolio
 
 
 ---

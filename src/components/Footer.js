@@ -8,16 +8,12 @@ function Footer() {
       <div className="content has-text-centered">
         <p>
           <strong>My Full Stack Development Portfolio</strong> - a React site by Mariana Hernandez-Chavez.
-          <a
-            href="https://www.linkedin.com/in/mariana-hern%C3%A1ndez-ch%C3%A1vez-853803122/"
-            target="_blank" rel="noreferrer"
-          >
-            LinkedIn
-          </a>{" "}
+        </p>
+        <p>
+        <a href="https://www.linkedin.com/in/mariana-hern%C3%A1ndez-ch%C3%A1vez-853803122/"
+            target="_blank" rel="noreferrer">LinkedIn</a>{" "}
           |{" "}{" "}
-          <a href="https://github.com/Mariana21hch/" target="_blank" rel="noreferrer">
-            GitHub 
-          </a>
+          <a href="https://github.com/Mariana21hch/" target="_blank" rel="noreferrer">GitHub</a>
         </p>
       </div>
     </footer>

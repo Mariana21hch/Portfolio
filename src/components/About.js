@@ -5,7 +5,7 @@ import React from "react";
 function About() {
   return (
     <div>
-      <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Mariana"/>
+      <img className="my-pic" src={process.env.PUBLIC_URL + '/officialPhoto.jpg'} alt="Mariana"/>
       <p className="content is-italic mt-4">
         I'm Mariana Hernandez-Chavez, a Full Stack Developer that graduated from the University of Texas at Austin's Fulls Stack Web development Bootcamp.  
       </p>
